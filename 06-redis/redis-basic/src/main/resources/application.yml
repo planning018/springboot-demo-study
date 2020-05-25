@@ -1,7 +1,7 @@
 spring:
   # 对应 RedisProperties 类
   redis:
-    host: 127.0.0.1
+    host: 192.168.1.106
     port: 6379
     password: # Redis 服务器密码，默认为空
     database: 0 # Redis 数据库号，默认是 0

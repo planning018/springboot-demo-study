@@ -81,7 +81,6 @@ public class Test01 {
     @Test
     public void testGetDiffType() {
         System.out.println(JSON.toJSONString(redisTemplate.opsForValue().get("list-1")));
-
     }
 
 
