@@ -1,4 +1,4 @@
-package com.planning.rocketmq;
+package com.planning.rocketmq.temp;
 
 import org.apache.rocketmq.client.exception.MQClientException;
 import org.apache.rocketmq.client.producer.DefaultMQProducer;
