@@ -15,6 +15,7 @@
         <module>04-zebra</module>
         <module>05-lion</module>
         <module>06-redis</module>
+        <module>07-session</module>
     </modules>
 
 
