@@ -1,0 +1,4 @@
+planning:
+  server:
+    # todo 此处的配置未生效
+    port:8888

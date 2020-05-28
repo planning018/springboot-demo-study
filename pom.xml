@@ -16,6 +16,7 @@
         <module>05-lion</module>
         <module>06-redis</module>
         <module>07-session</module>
+        <module>08-springboot-starter</module>
     </modules>
 
 
