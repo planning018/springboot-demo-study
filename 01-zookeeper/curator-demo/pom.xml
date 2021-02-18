@@ -16,7 +16,7 @@
         <zookeeper.version>3.4.14</zookeeper.version>
         <assertj.version>3.6.1</assertj.version>
         <avaitility.version>1.7.0</avaitility.version>
-        <jackson.version>2.10.3</jackson.version>
+        <jackson.version>2.10.5.1</jackson.version>
     </properties>
 
     <dependencies>
