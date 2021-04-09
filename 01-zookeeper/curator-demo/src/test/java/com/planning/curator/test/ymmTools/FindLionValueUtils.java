@@ -45,7 +45,7 @@ public class FindLionValueUtils {
             client.start();
 
             AsyncCuratorFramework async = AsyncCuratorFramework.wrap(client);
-            async.getData().forPath(basicPath + "/es.es7-drivereot.username").thenAccept(
+            async.getData().forPath(basicPath + "/1111").thenAccept(
                     data -> System.out.println("value is " + new String(data))
             );
         }
